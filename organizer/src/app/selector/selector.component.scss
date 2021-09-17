@@ -1,0 +1,15 @@
+p{
+  display: flex;
+  algin-items: center;
+  justify-content: center;
+
+  span{
+    margin: 0 2rem;
+    text-algin: center;
+    width: 200px;
+  }
+
+  i{
+    cursor: pointer;
+  }
+}
